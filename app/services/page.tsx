@@ -18,6 +18,9 @@ export default function Services() {
         <div className="mb-4">
           <ul className="list-disc pl-5">
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
+              Reviewer, IEEE Transactions on Medical Imaging (TMI) — 2026
+            </li>
+            <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
               Reviewer, SPIGM Workshop — ICML 2026
             </li>
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
