@@ -18,6 +18,9 @@ export default function Awards() {
         <div className="mb-4">
           <ul className="list-disc pl-5">
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
+              <strong>$5,000 Tinker Research Grant</strong> · Thinking Machines · Aug 2026
+            </li>
+            <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
               <strong>UCM Scholars Symposium Level I Award</strong> · University of Central Missouri · Apr 2026
             </li>
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">

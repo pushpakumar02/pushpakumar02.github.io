@@ -18,6 +18,9 @@ export default function Services() {
         <div className="mb-4">
           <ul className="list-disc pl-5">
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
+              Ethics Reviewer — NeurIPS 2026
+            </li>
+            <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
               Reviewer, IEEE Transactions on Medical Imaging (TMI) — 2026
             </li>
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
@@ -28,6 +31,9 @@ export default function Services() {
             </li>
             <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
               PC Member & Reviewer,  SAPP (Student Abstract and Poster Program) — AAAI 2026
+            </li>
+            <li className="text-sm text-gray-700 dark:text-gray-400 mb-2">
+              Ethics Reviewer & Reviewer (ACA, AI4D3, SPIGM Workshops) — NeurIPS 2025
             </li>
           </ul>
         </div>
